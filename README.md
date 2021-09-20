@@ -37,6 +37,21 @@ Final notes:
 
 I'm sorry.
 
+Testimonials:
+
+Drazden — 
+Cursedelica is the only list to have elicited a physical reaction in my body
+Im not even joking it gave me legitimate eye strain
+Yeah fuck you
+Quote that ^
+
+JTK — 
+I mean
+My eyes still hurt
+still
+I will say
+It likely is the best named modlist
+
 Screenshots: 
 
 ![Alt text](/screenshots/1.PNG?raw=true "Optional Title")
