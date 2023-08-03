@@ -7,6 +7,8 @@ This is a lightweight, tightly focused modlist, which aims to keep mostly close 
 
 NOW FEATURED ON YOUTUBE, COURTESY OF DROPPEDICECREAM!
 
+https://www.youtube.com/watch?v=1dzf71i06Rs
+
 [![Video](https://img.youtube.com/vi/1dzf71i06Rs/maxresdefault.jpg)](https://www.youtube.com/watch?v=1dzf71i06Rs)
 
 Installation :
