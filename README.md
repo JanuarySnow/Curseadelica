@@ -43,6 +43,10 @@ Final notes:
 
 I'm sorry.
 
+If you want support, like if the game is crashing or something, then come to where I hang at the Animonculory Discord, where I will laugh at you 
+
+https://discord.gg/DffHKcszfg
+
 Testimonials:
 
 Drazden — 
@@ -58,17 +62,12 @@ still
 I will say
 It likely is the best named modlist
 
+
 Screenshots: 
 
 ![Alt text](/screenshots/1.PNG?raw=true "Optional Title")
 
 ![Alt text](/screenshots/2.png?raw=true "Optional Title")
-
-If you want support, like if the game is crashing or something, then come to where I hang at the Animonculory Discord, where I will laugh at you 
-
-https://discord.gg/DffHKcszfg
-
-
 
 ![Alt text](/screenshots/3.png?raw=true "Optional Title")
 
