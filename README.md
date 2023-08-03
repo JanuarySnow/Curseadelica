@@ -13,7 +13,7 @@ https://www.youtube.com/watch?v=1dzf71i06Rs
 
 Installation :
 
-After installing the Wabbajack file, drag and drop the contents of Game Folder Files into your Skyrim Special Edition folder
+After installing, launch modorganizer.exe from the modlist folder you chose to install to, then press Launch SKSE in the top right of Mod Organizer 2
 
 Mod Configuration :
 
