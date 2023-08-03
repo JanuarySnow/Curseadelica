@@ -5,6 +5,10 @@ Preamble:
 
 This is a lightweight, tightly focused modlist, which aims to keep mostly close to Bethesdas original vision for Skyrim, no massive overhauls or gameplay changes, with a unique visual style.
 
+NOW FEATURED ON YOUTUBE, COURTESY OF DROPPEDICECREAM!
+
+https://www.youtube.com/watch?v=1dzf71i06Rs
+
 Installation :
 
 After installing the Wabbajack file, drag and drop the contents of Game Folder Files into your Skyrim Special Edition folder
