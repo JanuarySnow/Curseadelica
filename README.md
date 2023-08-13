@@ -1,3 +1,8 @@
+<table stlyle="border: none;">
+<td><img src="https://cdn.discordapp.com/icons/1132691434420576337/a84d3c6ed7807aec2a8b758e96e50acf.webp?size=128" width="72px" /></td>
+<td><a href="https://discord.gg/xRrHRsb5e9">Support Discord</a></td>
+</table>
+
 # Curseadelica
 A lightweight Wabbajack modlist for Skyrim Special Edition
 
@@ -43,9 +48,7 @@ Final notes:
 
 I'm sorry.
 
-If you want support, like if the game is crashing or something, then come to where I hang at the Animonculory Discord, where I will laugh at you 
-
-https://discord.gg/DffHKcszfg
+If you want support, like if the game is crashing or something, then come to where I hang at the Aetherius Modding Discord, where I will laugh at you 
 
 Testimonials:
 
