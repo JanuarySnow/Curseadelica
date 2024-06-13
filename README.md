@@ -16,8 +16,6 @@ Space required : around 250GB+ I guess
 
 performance : bad
 
-Use the Upscaler mod or something if you want, modlist dosnt use ENB so you can use the free one probably.
-
 Enjoy!
 
 ( no seriously, enjoy it, you have to. its mandatory)
