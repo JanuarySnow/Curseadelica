@@ -21,7 +21,7 @@ Enjoy!
 ( no seriously, enjoy it, you have to. its mandatory)
 
 ( seriously tho, if you dont enjoy it, I have ways of making sure you do, pray I dont use those ways )
-![SkyrimSE 2024-06-14 12-15-50](https://github.com/JanuarySnow/Curseadelica/assets/85711747/fa6793f1-99c8-4f07-92cb-93c64be1b030)
+
 
 ![SkyrimSE 2024-06-14 12-21-30](https://github.com/JanuarySnow/Curseadelica/assets/85711747/6d3c5b70-a33a-4f38-88f6-bd9dd2abdeee)
 ![SkyrimSE 2024-06-14 12-16-44](https://github.com/JanuarySnow/Curseadelica/assets/85711747/aaa84814-9980-4773-9ae1-88b2ba026b4e)
