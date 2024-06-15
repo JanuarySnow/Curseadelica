@@ -14,13 +14,17 @@ Install from Wabbajack - > go to install folder - > run modorganizer.exe -> then
 
 Space required : around 250GB+ I guess
 
-performance : bad
+performance : bad ( no seriopusly, I got around 40 fps in Whiterun on my 4070ti )
 
 Enjoy!
 
 ( no seriously, enjoy it, you have to. its mandatory)
 
 ( seriously tho, if you dont enjoy it, I have ways of making sure you do, pray I dont use those ways )
+
+Come to the Aetherius modding server for support : - https://discord.gg/xRrHRsb5e9
+
+Gameplay Tip : Go to merchants in Whiterun like Farengar and Belethor to buy lots of mod quest-starting books and weird summoning scrolls
 
 
 ![SkyrimSE 2024-06-14 12-21-30](https://github.com/JanuarySnow/Curseadelica/assets/85711747/6d3c5b70-a33a-4f38-88f6-bd9dd2abdeee)
