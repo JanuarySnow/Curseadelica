@@ -14,7 +14,9 @@ Install from Wabbajack - > go to install folder - > run modorganizer.exe -> then
 
 Space required : around 250GB+ I guess
 
-performance : bad ( no seriopusly, I got around 40 fps in Whiterun on my 4070ti )
+performance : bad ( no seriously, I got around 40 fps in Whiterun on my 4070ti )
+
+Performance in Curseadelica VR is better for some reason, dont ask me why.
 
 Enjoy!
 
