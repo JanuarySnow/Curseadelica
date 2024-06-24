@@ -18,6 +18,10 @@ performance : bad ( no seriously, I got around 40 fps in Whiterun on my 4070ti )
 
 Performance in Curseadelica VR is better for some reason, dont ask me why.
 
+https://loadorderlibrary.com/lists/curseadelica
+
+https://loadorderlibrary.com/lists/curseadelica-vr
+
 Enjoy!
 
 ( no seriously, enjoy it, you have to. its mandatory)
